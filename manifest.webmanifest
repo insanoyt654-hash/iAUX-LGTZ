@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "JFXLEGITZ",
+  "short_name": "JFXLEGITZ",
+  "description": "Panel y herramientas JFXLEGITZ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050509",
+  "theme_color": "#08090d",
+  "icons": [
+    {"src":"https://jfx-sensi.neocities.org/LOGO%20JFX.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"https://jfx-sensi.neocities.org/LOGO%20JFX.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
